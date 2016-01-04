@@ -1,0 +1,53 @@
+{
+  "name": "a",
+  "description": "",
+  "version": "0.0.1",
+  "private": false,
+  "author": "keval bhatt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//a.git"
+  },
+  "engines": {
+    "node": "latest",
+    "npm": "latest"
+  },
+  "scripts": {
+    "start": "node node_modules/grunt-cli/bin/grunt",
+    "test": "node node_modules/grunt-cli/bin/grunt test"
+  },
+  "dependencies": {
+    "async": "latest",
+    "body-parser": "latest",
+    "compression": "latest",
+    "connect-flash": "latest",
+    "consolidate": "latest",
+    "cookie-parser": "latest",
+    "express": "latest",
+    "express-session": "latest",
+    "forever": "latest",
+    "grunt": "latest",
+    "grunt-cli": "latest",
+    "jade": "latest",
+    "method-override": "latest",
+    "morgan": "latest",
+    "node-sass-middleware": "latest",
+    "serve-static": "latest",
+    "static-favicon": "latest",
+    "view-helpers": "latest"
+  },
+  "devDependencies": {
+    "grunt-concurrent": "latest",
+    "grunt-contrib-compass": "^1.0.4",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-sass": "0.8.1",
+    "grunt-contrib-watch": "latest",
+    "grunt-mocha-test": "latest",
+    "grunt-nodemon": "latest",
+    "grunt-sass": "^1.0.0",
+    "load-grunt-tasks": "~0.1.0",
+    "should": "latest",
+    "supertest": "latest",
+    "time-grunt": "~0.1.1"
+  }
+}

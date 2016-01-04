@@ -134,13 +134,13 @@ module.exports = yeoman.generators.Base.extend({
             bower.dependencies[bs] = 'latest';
 
             bower.dependencies.angular = 'latest';
-            bower.dependencies['angular-resource'] = 'latest';
-            bower.dependencies['angular-cookies'] = 'latest';
-            bower.dependencies['angular-route'] = 'latest';
-            bower.dependencies['angular-ui-router'] = 'latest';
-            bower.dependencies['angular-mocks'] = 'latest';
-            bower.dependencies['angular-cookies'] = 'latest';
-            bower.dependencies['angular-sanitize'] = 'latest';
+            bower.dependencies['angular-resource'] = '1.4.8';
+            bower.dependencies['angular-cookies'] = '1.4.8';
+            bower.dependencies['angular-route'] = '1.4.8';
+            bower.dependencies['angular-ui-router'] = '1.4.8';
+            bower.dependencies['angular-mocks'] = '1.4.8';
+            bower.dependencies['angular-cookies'] = '1.4.8';
+            bower.dependencies['angular-sanitize'] = '1.4.8';
 
             if (this.includeABootstrap) {
                 bower.dependencies['angular-bootstrap'] = 'latest';

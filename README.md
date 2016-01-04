@@ -1,4 +1,4 @@
-# generator-mean-js [![Build Status](https://secure.travis-ci.org/kevalbhatt18@gmail.com/generator-mean-js.png?branch=master)](https://travis-ci.org/kevalbhatt18@gmail.com/generator-mean-js)
+# generator-mean-js
 
 > [Yeoman](http://yeoman.io) generator
 

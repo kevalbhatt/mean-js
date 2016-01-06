@@ -1,13 +1,13 @@
 {
   "name": "generator-mean-js",
   "version": "1.0.1",
-  "description": "Yeoman generator",
+  "description": "Yeoman generator for MEAN structure",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "kevalbhatt18@gmail.com/generator-mean-js",
+  "repository": "kevalbhatt/mean-js",
   "author": {
-    "name": "",
-    "email": "",
+    "name": "Keval Bhatt",
+    "email": "kevalbhatt18@gmail.com",
     "url": ""
   },
   "scripts": {
